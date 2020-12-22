@@ -1,3 +1,6 @@
 # Dynamic-Programming-Questions-by-Aditya-Verma
 Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectures
-i. 0/1 Knapsack
+- 0/1 Knapsack
+  - Knapsack Recursive
+  - Knapsack Bottom-up
+  - Knpaack Top-down (most efficient)
