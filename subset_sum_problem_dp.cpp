@@ -1,4 +1,4 @@
-// Equal Partition Problem
+// Subset Sum problem
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -15,7 +15,6 @@ bool isSubsetPoss(int arr[], int n, int sum) {
 		}
 	}
 
-
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= sum; j++) {
 			if (arr[i - 1] <= j)
@@ -28,23 +27,13 @@ bool isSubsetPoss(int arr[], int n, int sum) {
 	return t[n][sum];
 }
 
-bool EqualSumPartitionPossible(int arr[], int n) {
-	int sum = 0; // sum of all elements of arr
-	for (int i = 0; i < n; i++)
-		sum += arr[i];
-
-	if (sum % 2 != 0) // if sum is odd --> not possible to make equal partitions
-		return false;
-
-	return isSubsetPoss(arr, n, sum / 2);
-}
-
 signed main() {
 	int n; cin >> n;
 	int arr[n];
 	for (int i = 0; i < n; i++)
 		cin >> arr[i];
+	int sum; cin >> sum;
 
-	EqualSumPartitionPossible(arr, n) ? cout << "YES\n" : cout << "NO\n";
+	isSubsetPoss(arr, n, sum) ? cout << "Yes\n" : cout << "No\n";
 	return 0;
 }
