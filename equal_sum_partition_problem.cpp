@@ -1,4 +1,4 @@
-// Equal Partition Problem
+// Equal sum Partition Problem
 
 #include <bits/stdc++.h>
 using namespace std;

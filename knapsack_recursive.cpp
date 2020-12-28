@@ -25,7 +25,7 @@ signed main() {
 		cin >> wt[i];
 	for (int i = 0; i < n; i++)
 		cin >> val[i];
-	int W; cin >> W; // capacity
+	int W; cin >> W; // Knappsack capacity
 
 	cout << Knapsack(wt, val, W, n) << endl;
 	return 0;
