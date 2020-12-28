@@ -11,3 +11,7 @@ Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectur
   - Min Subset Sum Difference
   - Count of Subsets with given diff
   - Target Sum - Specific to leetcode problem
+- Unbounded Knapsack
+  - Rod Cutting Problem
+  - Coin Change - I: max number of ways
+  - Coins Change - II: min number of coins
