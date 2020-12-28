@@ -1,5 +1,6 @@
 # Dynamic-Programming-Questions-by-Aditya-Verma
 Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectures
+(Codes are tested on gfg/leetcode)
 - 0/1 Knapsack
   - Knapsack Recursive - exponential time
   - Knapsack Memoization - efficient but stack may be overflow
@@ -7,3 +8,6 @@ Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectur
   - Subset Sum Problem
   - Equal Sum Partition Problem
   - Count of Subsets Sum with a Given Sum
+  - Min Subset Sum Difference
+  - Count of Subsets with given diff
+  - Target Sum - Specific to leetcode problem
