@@ -1,6 +1,8 @@
 # Dynamic-Programming-Questions-by-Aditya-Verma
-Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectures
+
+Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectures\
 (Codes are tested on gfg/leetcode)
+
 - 0/1 Knapsack
   - Knapsack Recursive - exponential time
   - Knapsack Memoization - efficient but stack may be overflow
@@ -14,4 +16,20 @@ Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectur
 - Unbounded Knapsack
   - Rod Cutting Problem
   - Coin Change - I: max number of ways
-  - Coins Change - II: min number of coins
+  - Coin Change - II: min number of coins
+- Longest Common Subsequence (LCS)
+  - LCS Recursive
+  - LCS Memoization
+  - LCS Bottom - Up DP
+  - Longest Common Substring
+  - Print LCS
+  - Shortest Common Supersequence (SCS)
+  - Min # of insertion and deletion to convert a to b
+  - Longest Pallindromic Subsquence (LPS)
+  - Min Number of deletions in string to make it pallindrome
+  - Print SCS
+  - Longest Repeating Subsequence
+  - Sequence Pattern Matching
+  - Min number of insertion in a string to make it pallindrome
+  - Extras (remaining question which are not covered in video / founded during submissions on leetcode):
+    -
