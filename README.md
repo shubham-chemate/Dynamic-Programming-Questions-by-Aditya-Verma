@@ -1,7 +1,7 @@
 # Dynamic-Programming-Questions-by-Aditya-Verma
 
 Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectures\
-(Codes are tested on gfg/leetcode)
+(Codes are tested on gfg/leetcode and are in the order of videos)
 
 - 0/1 Knapsack
   - Knapsack Recursive - exponential time
@@ -30,6 +30,4 @@ Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectur
   - Print SCS
   - Longest Repeating Subsequence
   - Sequence Pattern Matching
-  - Min number of insertion in a string to make it pallindrome
-  - Extras (remaining question which are not covered in video / founded during submissions on leetcode):
-    -
+  - Min number of insertion in a string to make string pallindrome
