@@ -31,3 +31,21 @@ Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectur
   - Longest Repeating Subsequence
   - Sequence Pattern Matching
   - Min number of insertion in a string to make string pallindrome
+- Matrix Chain Multiplication (MCM)
+  - MCM Recursive
+  - MCM Memoization
+  - MCM bottom up DP
+  - Pallindrome Partitioning Recursive
+  - Pallindrome Partitioning Memoization
+  - Pallindrome Partitioning Optimization
+  - Evaluate Expression to true Recursive
+  - Evaluate Expression to true Memoization: Using Map
+  - Evaluate Expression to true Memoization: Using 3d Array
+  - Scramble String Recursive
+  - Scramble String Memoization
+  - Egg Dropping Problem Recursive
+  - Egg Dropping Problem Memoization
+- DP on Trees (Solutions to leetcode problems)
+  - Diameter of Binary Tree
+  - Maximum path sum (from any node to any node)
+  - Maximum path sum from leaf to leaf
