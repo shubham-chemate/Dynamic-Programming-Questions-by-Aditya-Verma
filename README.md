@@ -34,18 +34,19 @@ Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectur
 - Matrix Chain Multiplication (MCM)
   - MCM Recursive
   - MCM Memoization
-  - MCM bottom up DP
   - Pallindrome Partitioning Recursive
   - Pallindrome Partitioning Memoization
-  - Pallindrome Partitioning Optimization
+  - Pallindrome Partitioning Optimization -> Still Giving TLE on GFG(Will Update if found better)
   - Evaluate Expression to true Recursive
-  - Evaluate Expression to true Memoization: Using Map
+  - Evaluate Expression to true Memoization: Using Map -> Giving TLE on GFG (Will Update if found better)
   - Evaluate Expression to true Memoization: Using 3d Array
   - Scramble String Recursive
   - Scramble String Memoization
   - Egg Dropping Problem Recursive
   - Egg Dropping Problem Memoization
-- DP on Trees (Solutions to leetcode problems)
+  - Egg Dropping Problem Memoization Optimization - As suggested in lectures
+  - Egg Dropping Problem Optimization Using Concept of Binary Search - Accepted on Leetcode (Credits: Comment below video)
+- DP on Trees (Direct Solutions to leetcode / gfg problems)
   - Diameter of Binary Tree
   - Maximum path sum (from any node to any node)
   - Maximum path sum from leaf to leaf
