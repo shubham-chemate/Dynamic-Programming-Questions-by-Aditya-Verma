@@ -4,42 +4,59 @@ Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectur
 (Codes are tested on gfg / leetcode and are in the order of videos)
 
 - 0/1 Knapsack
-  - [Knapsack Recursive](../knapsack_recursive.cpp)
-    - [Video Link]()
-  - [Knapsack Memoization]()
-    - [Video Link]()
-  - [Knapsack Bottom-up]()
-    - [Video Link]()
-  - [Subset Sum Problem]()
-    - [Video Link]()
-  - [Equal Sum Partition Problem]()
-    - [Video Link]()
-  - [Count of Subsets Sum with a Given Sum]()
-    - [Video Link]()
-  - [Min Subset Sum Difference]()
-    - [Video Link]()
-  - [Count of Subsets with given diff]()
-    - [Video Link]()
-  - [Target Sum - Specific to leetcode problem]()
-    - [Video Link]()
+  - [Knapsack Recursive](knapsack_recursive.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=kvyShbFVaY8&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=3)
+  - [Knapsack Memoization](knapsack_memoization.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=fJbIuhs24zQ&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=4)
+  - [Knapsack Bottom-up](knapsack_top_down_dp.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ntCGbPMeqgg&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=5)
+    - [GFG Practice]()
+  - [Subset Sum Problem](subset_sum_problem_dp.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=_gPcYovP7wc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=7)
+  - [Equal Sum Partition Problem](equal_sum_partition_problem.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=UmMh7xp07kY&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=8)
+  - [Count of Subsets Sum with a Given Sum](count_of_subsets_with_given_sum.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=F7wqWbqYn9g&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=9)
+  - [Min Subset Sum Difference](min_subset_sum_diff.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=-GtpxG6l_Mc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=10)
+  - [Count of Subsets with given diff](count_of_subset_with_given_diff.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=11)
+  - [Target Sum - Specific to leetcode problem](target_sum.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=12)
 - Unbounded Knapsack
-  - Rod Cutting Problem
-  - Coin Change - I: max number of ways
-  - Coin Change - II: min number of coins
+  - [Rod Cutting Problem](rod_cutting_problem.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=14)
+  - [Coin Change - I: max number of ways](coin_change_max_ways.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=15)
+  - [Coin Change - II: min number of coins](coin_change_min_coins.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=16)
 - Longest Common Subsequence (LCS)
-  - LCS Recursive
-  - LCS Memoization
-  - LCS Bottom - Up DP
-  - Longest Common Substring
-  - Print LCS
-  - Shortest Common Supersequence (SCS)
-  - Min # of insertion and deletion to convert a to b
-  - Longest Pallindromic Subsquence (LPS)
-  - Min Number of deletions in string to make it pallindrome
-  - Print SCS
-  - Longest Repeating Subsequence
-  - Sequence Pattern Matching
-  - Min number of insertion in a string to make string pallindrome
+  - [LCS Recursive](LCS_recursive.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=19)
+  - [LCS Memoization](LCS_memoization.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=20)
+  - [LCS Bottom - Up DP](LCS_bottom_up_dp.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=21)
+  - [Longest Common Substring](LCSubstring.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=22)
+  - [Print LCS](print_LCS.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=23)
+  - [Shortest Common Supersequence (SCS)](SCS.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=24)
+  - [Min # of insertion and deletion to convert a to b](min_insertion_del__to_convert_a_to_b.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=25)
+  - [Longest Pallindromic Subsquence (LPS)](longest_pallin_subseq.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=26)
+  - [Min Number of deletions in string to make it pallindrome](min_del_to_make_pallindrome.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=28)
+  - [Print SCS](print_SCS.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=29)
+  - [Longest Repeating Subsequence](longest_repeating_subseq.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=30)
+  - [Sequence Pattern Matching](sequence_patttern_matching.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=31)
+  - [Min number of insertion in a string to make string pallindrome](min_insertion_to_make_string_pallindrome.cpp)
+    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=32)
 - Matrix Chain Multiplication (MCM)
   - MCM Recursive
   - MCM Memoization
