@@ -4,7 +4,7 @@ Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectur
 (Codes are tested on gfg / leetcode and are in the order of videos)
 
 - 0/1 Knapsack
-  - [Knapsack Recursive](https://github.com/shubhamchemate003/Dynamic-Programming-Questions-by-Aditya-Verma/blob/main/knapsack_recursive.cpp)
+  - [Knapsack Recursive](../knapsack_recursive.cpp)
     - [Video Link]()
   - [Knapsack Memoization]()
     - [Video Link]()
