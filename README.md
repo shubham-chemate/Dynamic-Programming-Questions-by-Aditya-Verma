@@ -1,7 +1,7 @@
 # Dynamic-Programming-Questions-by-Aditya-Verma
 
 Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectures\
-(Codes are tested on gfg / leetcode and are in the order of videos)
+(Codes are tested on gfg / leetcode and are in the order of videos)\
 Note: **Click on title of question to go to the page of code**
 
 - **0/1 Knapsack**
@@ -69,27 +69,35 @@ Note: **Click on title of question to go to the page of code**
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=37)
   - [Pallindrome Partitioning Optimization -> Still Giving TLE on GFG(Will Update if found better)](pallindrome_partitioning_memoized_optimization.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=38)
+    - To Solve these problem on GFG [Click Here.](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1)
   - [Evaluate Expression to true Recursive](evaluate_expression_to_true.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=39)
   - [Evaluate Expression to true Memoization: Using Map -> Giving TLE on GFG (Will Update if found better)](evaluate_expression_to_true_memoization_using_map.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=40)
+    - To Solve these problem on GFG [Click Here.](https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0)
   - [Evaluate Expression to true Memoization: Using 3d Array](evaluate_expression_to_true_memoization_using_3d_array.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=40)
   - [Scramble String Recursive](scramble_strings.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=41)
   - [Scramble String Memoization](scramble_strings_memoization.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=42)
+    - To Solve these problem on leetcode [Click Here.](https://leetcode.com/problems/scramble-string/)
   - [Egg Dropping Problem Recursive](egg_dropping_problem_recursive.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=43)
   - [Egg Dropping Problem Memoization](egg_dropping_problem_memoization.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=44)
   - [Egg Dropping Problem Memoization Optimization - As suggested in lectures](egg_dropping_problem_memoized_optimization.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=45)
+    - To Solve these problem on GFG [Click Here.](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1)
   - [Egg Dropping Problem Optimization Using Concept of Binary Search - Accepted on Leetcode (Credits: Comment below video)](egg_dropping_problem_optimized_for_leetcode.cpp)
+    - To Solve these problem on leetcode [Click Here.](https://leetcode.com/problems/super-egg-drop/)
 - **DP on Trees (Direct Solutions to leetcode / gfg problems)**
   - [Diameter of Binary Tree](diameter_of_binary_tree.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=48)
+    - To Solve these problem on leetcode [Click Here.](https://leetcode.com/problems/diameter-of-binary-tree/)
   - [Maximum path sum (from any node to any node)](max_path_sum_from_any_node_to_any.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=49)
+    - To Solve these problem on leetcode [Click Here.](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
   - [Maximum path sum from leaf to leaf](max_path_sum_from_leaf_to_leaf.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=50)
+    - To Solve these problem on GFG [Click Here.](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
