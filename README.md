@@ -11,7 +11,6 @@ Note: **Click on title of question to go to the page of code**
     - [Video Link](https://www.youtube.com/watch?v=fJbIuhs24zQ&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=4)
   - [Knapsack Bottom-up](knapsack_top_down_dp.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ntCGbPMeqgg&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=5)
-    - [GFG Practice]()
   - [Subset Sum Problem](subset_sum_problem_dp.cpp)
     - [Video Link](https://www.youtube.com/watch?v=_gPcYovP7wc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=7)
   - [Equal Sum Partition Problem](equal_sum_partition_problem.cpp)
