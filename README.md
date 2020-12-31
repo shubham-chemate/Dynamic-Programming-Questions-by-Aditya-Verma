@@ -58,21 +58,37 @@ Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectur
   - [Min number of insertion in a string to make string pallindrome](min_insertion_to_make_string_pallindrome.cpp)
     - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=32)
 - Matrix Chain Multiplication (MCM)
-  - MCM Recursive
-  - MCM Memoization
-  - Pallindrome Partitioning Recursive
-  - Pallindrome Partitioning Memoization
-  - Pallindrome Partitioning Optimization -> Still Giving TLE on GFG(Will Update if found better)
-  - Evaluate Expression to true Recursive
-  - Evaluate Expression to true Memoization: Using Map -> Giving TLE on GFG (Will Update if found better)
-  - Evaluate Expression to true Memoization: Using 3d Array
-  - Scramble String Recursive
-  - Scramble String Memoization
-  - Egg Dropping Problem Recursive
-  - Egg Dropping Problem Memoization
-  - Egg Dropping Problem Memoization Optimization - As suggested in lectures
-  - Egg Dropping Problem Optimization Using Concept of Binary Search - Accepted on Leetcode (Credits: Comment below video)
+  - [MCM Recursive](MCM_recursive.cpp)
+    - [Video Link]()
+  - [MCM Memoization](MCM_memoization.cpp)
+  - [Pallindrome Partitioning Recursive](pallindrome_partitioning_recursive.cpp)
+    - [Video Link]()
+  - [Pallindrome Partitioning Memoization](pallindrome_partitioning_memoization.cpp)
+    - [Video Link]()
+  - [Pallindrome Partitioning Optimization -> Still Giving TLE on GFG(Will Update if found better)](pallindrome_partitioning_memoized_optimization.cpp)
+    - [Video Link]()
+  - [Evaluate Expression to true Recursive](evaluate_expression_to_true.cpp)
+    - [Video Link]()
+  - [Evaluate Expression to true Memoization: Using Map -> Giving TLE on GFG (Will Update if found better)](evaluate_expression_to_true_memoization_using_map.cpp)
+    - [Video Link]()
+  - [Evaluate Expression to true Memoization: Using 3d Array](evaluate_expression_to_true_memoization_using_3d_array.cpp)
+    - [Video Link]()
+  - [Scramble String Recursive](scramble_strings.cpp)
+    - [Video Link]()
+  - [Scramble String Memoization](scramble_strings_memoization.cpp)
+    - [Video Link]()
+  - [Egg Dropping Problem Recursive](egg_dropping_problem_recursive.cpp)
+    - [Video Link]()
+  - [Egg Dropping Problem Memoization](egg_dropping_problem_memoization.cpp)
+    - [Video Link]()
+  - [Egg Dropping Problem Memoization Optimization - As suggested in lectures](egg_dropping_problem_memoized_optimization.cpp)
+    - [Video Link]()
+  - [Egg Dropping Problem Optimization Using Concept of Binary Search - Accepted on Leetcode (Credits: Comment below video)](egg_dropping_problem_optimized_for_leetcode.cpp)
+    - [Video Link]()
 - DP on Trees (Direct Solutions to leetcode / gfg problems)
-  - Diameter of Binary Tree
-  - Maximum path sum (from any node to any node)
-  - Maximum path sum from leaf to leaf
+  - [Diameter of Binary Tree](diameter_of_binary_tree.cpp)
+    - [Video Link]()
+  - [Maximum path sum (from any node to any node)](max_path_sum_from_any_node_to_any.cpp)
+    - [Video Link]()
+  - [Maximum path sum from leaf to leaf](max_path_sum_from_leaf_to_leaf.cpp)
+    - [Video Link]()
