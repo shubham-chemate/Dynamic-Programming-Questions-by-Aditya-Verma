@@ -1,5 +1,3 @@
-// Count of Subsets with given Sum
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -28,14 +26,19 @@ int CountSubsetsWithSum(int arr[], int n, int sum) {
 }
 
 int CountSubsetsWithDiff(int arr[], int n, int diff) {
-	int sumOfArray = 0;
-	for (int i = 0; i < n; i++)
+	int sumOfArray = 0, zerocount = 0;
+	for (int i = 0; i < n; i++){
 		sumOfArray += arr[i];
+		if(arr[i] == 0){
+		    zerocount++;
+		}
+	}
+
 
 	if ((sumOfArray + diff) % 2 != 0)
 		return 0;
 	else
-		return CountSubsetsWithSum(arr, n, (sumOfArray + diff) / 2);
+		return pow(2,zerocount)*CountSubsetsWithSum(arr, n, (sumOfArray + diff) / 2);
 }
 
 signed main() {
